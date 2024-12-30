@@ -1,4 +1,4 @@
-# colony_counter_web
+# colony_counter_app
 
 A new Flutter project.
 

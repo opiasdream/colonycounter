@@ -1,4 +1,4 @@
-package com.example.colony_counter_web
+package com.example.colony_counter_app
 
 import io.flutter.embedding.android.FlutterActivity
 
