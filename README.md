@@ -1,16 +1,48 @@
-# colony_counter_app
+# Colony Counter App
 
-A new Flutter project.
+Colony Counter App, mikroskop görüntülerindeki kolonileri saymanıza yardımcı olan bir Flutter uygulamasıdır.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Görüntü yükleme ve görüntüleme
+- Görüntü üzerinde yakınlaştırma ve kaydırma
+- Koloni sayımı ve işaretleme
+- Basit ve kullanıcı dostu arayüz
 
-A few resources to get you started if this is your first Flutter project:
+## Gereksinimler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK (^3.5.3)
+- Dart SDK (^3.5.3)
+- Android Studio veya VS Code
+- iOS için: Xcode (Mac üzerinde)
+- Android için: Android SDK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kurulum
+
+1. Flutter'ı yükleyin:
+   ```bash
+   https://docs.flutter.dev/get-started/install
+   ```
+
+2. Projeyi klonlayın:
+   ```bash
+   git clone [repository-url]
+   cd colony_counter_app
+   ```
+
+3. Bağımlılıkları yükleyin:
+   ```bash
+   flutter pub get
+   ```
+
+4. Uygulamayı çalıştırın:
+   ```bash
+   flutter run
+   ```
+
+## Bağımlılıklar
+
+- widget_zoom: ^0.0.4
+- image_picker: ^1.1.2
+- dio: ^5.7.0
+
