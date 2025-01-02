@@ -1,6 +1,6 @@
 # Colony Counter App
 
-Colony Counter App, mikroskop görüntülerindeki kolonileri saymanıza yardımcı olan bir Flutter uygulamasıdır.
+Colony Counter App, petri kabı görüntülerindeki kolonileri saymanıza yardımcı olan bir Flutter uygulamasıdır.
 
 ## Özellikler
 
